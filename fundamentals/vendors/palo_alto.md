@@ -7,4 +7,4 @@ layout: default
 [Palo_Alto Cheat Sheet](./palo_alto/palo_alto_cheat.html)
 
 
-[Back}(./vendors.html)
+[Back](/fundamentals/os.html)

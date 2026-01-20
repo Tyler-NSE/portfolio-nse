@@ -7,4 +7,4 @@ layout: default
 [Checkpoint Cheat Sheet](./checkpoint/checkpoint_cheat.html)
 
 
-[Back](/vendors.html)
+[Back](/fundamentals/os.html)

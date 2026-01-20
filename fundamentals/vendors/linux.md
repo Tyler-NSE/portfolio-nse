@@ -5,4 +5,4 @@ layout: default
 # Linux Command Cheatsheet
 
 
-[Back](/vendors.html)
+[Back](/fundamentals/os.html)
