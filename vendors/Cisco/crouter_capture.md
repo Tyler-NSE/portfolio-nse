@@ -1,5 +1,5 @@
 ---
-layout: architect
+layout: default
 ---
 
 # Cisco Router Packet Capture Guide
