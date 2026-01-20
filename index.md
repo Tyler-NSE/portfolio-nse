@@ -31,13 +31,13 @@ Please see the links below for my past projects and experience with a wide range
 
 *  [How Attacks Actually Work](./attacks.html)
 
-*  [Detection and Response](./det-and-resp.html)
+*  [Detection and Response](./det_and_resp.html)
 
-*  [Cloud and Platform Security](./cloud-and-platform-sec.html)
+*  [Cloud and Platform Security](./cloud_and_platform-sec.html)
 
-*  [Secure SDLC and DevSecOps](./sec-sdlc-and-devsecops.html)
+*  [Secure SDLC and DevSecOps](./sec_sdlc_and_devsecops.html)
 
-*  [Data and Automation Skills](./data-and-automation.html)
+*  [Data and Automation Skills](./data_and_auto.html)
 
 <!-- >[Operating Systems](./vendors.html)
 
