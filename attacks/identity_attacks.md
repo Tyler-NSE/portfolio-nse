@@ -10,4 +10,4 @@ layout: default
 ## [IAM in Practice](./cloud_and_platform-sec/iam_in_practice.html)
 
 
-[back](https://tyler-nse.github.io/attacks.html)
+[back](/attacks.html)
