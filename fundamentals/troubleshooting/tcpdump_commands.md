@@ -142,4 +142,4 @@ In the examples below, we craft specific commands by combining tcpdump switches 
 | tcpdump -AtuvX icmp                                                                   | Capture ICMP traffic and print ICMP packets in hex and ASCII and the following features: With: • headers • data • undecoded NFS handles Without: • link level headers • timestamps. |
 | tcpdump 'tcp port 80 and (((ip[2:2] - ((ip[0]&0xf)<<2)) - ((tcp[12]&0xf0)>>2)) != 0)' | Print all IPv4 HTTP packets to and from port 80, i.e. print only packets that contain data, not, for example, SYN and FIN packets and ACK-only packets.                             |
 
-[Back](./fundamentals/networks_and_security.html)
+[Back](/fundamentals/networks_and_security.html)
