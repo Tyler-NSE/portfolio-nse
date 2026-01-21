@@ -8,7 +8,8 @@ layout: default
 
 The TCP 3-Way Handshake is a process used by the Transmission Control Protocol (TCP) to establish a reliable connection between a client and a server before data transfer. It ensures that both sides are synchronized and ready to communicate.
 
-- [Capture Commands](#capture-commands)
+- [TCP Structure](#tcp-structure)
+- [TCP 3-Way Handshake Process](#tcp-3-way-handshake-process)
 
 ## TCP Structure
 
