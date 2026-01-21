@@ -46,7 +46,7 @@ There are multiple ways to perform this step but I chose to use a theme supporte
 
 ### Tips on Adding and Editing
 
-[Markdown Editing](/tooling_and_skills/languages/markdown.html)
+[Markdown Editing](/data_and_auto/languages/markdown.html)
 
 
 
